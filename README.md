@@ -25,10 +25,10 @@ A simple yet interactive multiple-choice quiz application built with **Python** 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/kivy-quiz-app.git
+git clone https://github.com/pritish2403/KivyQuizApp.git
 cd kivy-quiz-app
 
-# (Optional) Create a virtual environment
+# Create a virtual environment
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
