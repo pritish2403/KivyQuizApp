@@ -49,23 +49,13 @@ git clone https://github.com/Pritish2403/KivyQuizApp.git
 cd KivyQuizApp
 Step 2: Install Dependencies
 Using pip:
-
-bash
-Copy
-Edit
 pip install kivy
-If you want sound playback:
 
-bash
-Copy
-Edit
+If you want sound playback:
 pip install ffpyplayer
+
 ▶️ Running the App
-bash
-Copy
-Edit
 python main.py
-Make sure correct.wav and wrong.wav files are present in the project directory for sound to work.
 
 📁 File Structure
 bash
@@ -99,6 +89,5 @@ Feel free to use, fork, modify, and share!
 
 🙌 Acknowledgements
 Kivy — GUI Framework
-SoundLoader for audio playback
-Fonts, sounds and inspiration from various trivia games!
+Fonts and inspiration from various trivia games!
 ---
